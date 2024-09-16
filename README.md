@@ -83,12 +83,6 @@ This app uses the following Python libraries:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
-
----
-
 ## 🔗 Useful Links
 
 For more resources, visit [xavidigi.com](https://xavidigi.com/). 🔗

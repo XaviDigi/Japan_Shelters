@@ -5,6 +5,10 @@ This **Streamlit** app helps users locate the nearest earthquake shelters in Jap
 ![Streamlit](https://img.shields.io/badge/streamlit-app-red?style=for-the-badge&logo=streamlit)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)
 
+## 🚀 Live Demo
+
+[![Live](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://celest23-top100songs-app-lvaseu.streamlit.app/)
+
 ## ✨ Features
 
 - 🔍 **Search by town name or zip code** to find nearby earthquake shelters.
